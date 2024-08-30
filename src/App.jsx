@@ -66,7 +66,7 @@ const App = () => {
           autoPlay
           loop
           muted
-          src="../src/assets/videos/main.mp4"
+          src="https://prismic-io.s3.amazonaws.com/rejouice/658ef98d531ac2845a270509_RJ-2-0-Videobackground_compressed.mp4"
         ></video>
         <nav className="w-full  flex z-10 absolute items-center justify-between flex-col h-screen">
           <div className="flex px-5 py-10 text-white items-center w-full justify-between">
@@ -102,15 +102,15 @@ const App = () => {
         <section className="w-full h-[70vh] gap-x-3 flex items-center justify-between">
           <div className="box w-[400px] relative h-[90vh] bg-red-300">
             <img src="https://images.prismic.io/rejouice/d8e1fa1f-4f24-41e1-a249-098c62df5aff_Group+46+%281%29.jpg?auto=compress,format" className="w-full h-full absolute top-0 left-0" alt="" />
-            <video autoPlay loop muted className="w-full h-full object-cover object-center" src="../src/assets/videos/video1.mp4"></video>
+            <video autoPlay loop muted className="w-full h-full object-cover object-center" src="https://prismic-io.s3.amazonaws.com/rejouice/87835eca-32b7-4eeb-91fc-4ba0dad1fdec_Website-homepage-Work-01_1.mp4"></video>
           </div>
           <div className="box w-[400px] relative h-[90vh] bg-red-300">
             <img src="https://images.prismic.io/rejouice/e0350a3d-c390-4d97-af1a-5c86bc822b52_Group+3929.jpg?auto=compress,format" className="w-full h-full absolute top-0 left-0" alt="" />
-            <video autoPlay loop muted className="w-full h-full object-cover object-center" src="../src/assets/videos/video2.mp4"></video>
+            <video autoPlay loop muted className="w-full h-full object-cover object-center" src="https://prismic-io.s3.amazonaws.com/rejouice/3492b027-4212-4103-b2e2-aa702345d784_Website-homepage-Work-02_1.mp4"></video>
           </div>
           <div className="box w-[400px] relative h-[90vh] bg-red-300">
             <img src="https://images.prismic.io/rejouice/2874f084-ec6c-4a19-b025-a55c1e6db929_Group+3692.jpg?auto=compress,format" className="w-full h-full absolute top-0 left-0" alt="" />
-            <video autoPlay loop muted className="w-full h-full object-cover object-center" src="../src/assets/videos/video3.mp4"></video>
+            <video autoPlay loop muted className="w-full h-full object-cover object-center" src="https://prismic-io.s3.amazonaws.com/rejouice/363f6760-3496-4638-8fc5-3b5d7711087c_Website-homepage-Work-03_1.mp4"></video>
           </div>
         </section>
       </div>
